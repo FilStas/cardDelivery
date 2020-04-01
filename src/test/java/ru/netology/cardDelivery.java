@@ -19,7 +19,7 @@ public class cardDelivery {
         $("[data-test-id=phone] .input__control").setValue("+79127468585") .waitUntil(Condition.visible, 7000);
         $("[data-test-id=agreement] .checkbox__box").click();
         $(".button__text").click();
-        $(withText("Успешно!")).waitUntil(Condition.visible, 10000);
+        $(withText("Успешно!")).waitUntil(Condition.visible, 12000);
     }
 
 }

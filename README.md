@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5y92oqj2ljmt1as8/branch/master?svg=true)](https://ci.appveyor.com/project/FilStas/carddelivery/branch/master)
